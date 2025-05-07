@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://malrangbbobbi.github.io/sitemap.xml
